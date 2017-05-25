@@ -12,16 +12,16 @@
   },
   "engineStrict": true,
   "dependencies": {
-    "yeoman-generator": "^0.24.1",
-    "yeoman-assert": "^2.2.2",
+    "yeoman-generator": "^1.1.1",
+    "yeoman-assert": "^3.0.0",
     "yeoman-test": "^1.6.0",
-    "fs-extra": "^1.0.0",
-    "update-notifier": "^1.0.2",
-    "node-forge": "^0.6.42",
+    "fs-extra": "^3.0.1",
+    "update-notifier": "^2.1.0",
+    "node-forge": "^0.7.1",
     "prompt": "^1.0.0"
   },
   "devDependencies": {
-    "eslint": "^2.11.1",
+    "eslint": "^3.19.0",
     "mocha": "^3.2.0",
     "is-my-json-valid": "^2.15.0",
     "chai": "^3.5.0"
